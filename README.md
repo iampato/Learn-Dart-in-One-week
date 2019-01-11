@@ -12,5 +12,5 @@
   <li><b>Day Five:</b> try and catch statement</li>
   <li><b>Day Six:</b> functions </li>
   <li><b>Day Seven:</b> Classes, getter and setter methods in dart </li>
-  
+  <li><b>Bonus:</b> List in dart </li>
 </ul>
